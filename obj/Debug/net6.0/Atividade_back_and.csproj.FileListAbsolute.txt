@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Atividade_back_and\bin\Debug\net6.0\Atividade_back_and.exe
+C:\Users\acer\Desktop\Atividade_back_and\bin\Debug\net6.0\Atividade_back_and.deps.json
+C:\Users\acer\Desktop\Atividade_back_and\bin\Debug\net6.0\Atividade_back_and.runtimeconfig.json
+C:\Users\acer\Desktop\Atividade_back_and\bin\Debug\net6.0\Atividade_back_and.dll
+C:\Users\acer\Desktop\Atividade_back_and\bin\Debug\net6.0\Atividade_back_and.pdb
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.AssemblyInfo.cs
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.dll
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\refint\Atividade_back_and.dll
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.pdb
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\Atividade_back_and.genruntimeconfig.cache
+C:\Users\acer\Desktop\Atividade_back_and\obj\Debug\net6.0\ref\Atividade_back_and.dll
